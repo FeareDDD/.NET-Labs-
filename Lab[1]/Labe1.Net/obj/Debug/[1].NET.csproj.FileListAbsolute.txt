@@ -1,0 +1,6 @@
+C:\Users\FeareD\Desktop\1_варіант\Lab1\Labe1.Net\obj\Debug\[1].NET.csproj.CoreCompileInputs.cache
+C:\Users\FeareD\Desktop\1_варіант\Lab1\Labe1.Net\bin\Debug\FirstLab.Net.exe.config
+C:\Users\FeareD\Desktop\1_варіант\Lab1\Labe1.Net\bin\Debug\FirstLab.Net.exe
+C:\Users\FeareD\Desktop\1_варіант\Lab1\Labe1.Net\bin\Debug\FirstLab.Net.pdb
+C:\Users\FeareD\Desktop\1_варіант\Lab1\Labe1.Net\obj\Debug\FirstLab.Net.exe
+C:\Users\FeareD\Desktop\1_варіант\Lab1\Labe1.Net\obj\Debug\FirstLab.Net.pdb
