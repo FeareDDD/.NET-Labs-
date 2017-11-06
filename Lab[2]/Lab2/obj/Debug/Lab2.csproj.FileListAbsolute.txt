@@ -1,0 +1,14 @@
+C:\Users\Kola\source\repos\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Kola\source\repos\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Kola\source\repos\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Kola\source\repos\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\Kola\source\repos\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Kola\source\repos\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Kola\source\repos\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\FeareD\Desktop\1_варіант\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\FeareD\Desktop\1_варіант\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\FeareD\Desktop\1_варіант\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\FeareD\Desktop\1_варіант\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\FeareD\Desktop\1_варіант\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\FeareD\Desktop\1_варіант\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\FeareD\Desktop\1_варіант\Lab2\Lab2\obj\Debug\Lab2.pdb
