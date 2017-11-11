@@ -1,0 +1,14 @@
+C:\Users\Kola\source\repos\la1b3\la1b3\bin\Debug\la1b3.exe.config
+C:\Users\Kola\source\repos\la1b3\la1b3\bin\Debug\la1b3.exe
+C:\Users\Kola\source\repos\la1b3\la1b3\bin\Debug\la1b3.pdb
+C:\Users\Kola\source\repos\la1b3\la1b3\obj\Debug\la1b3.csprojResolveAssemblyReference.cache
+C:\Users\Kola\source\repos\la1b3\la1b3\obj\Debug\la1b3.csproj.CoreCompileInputs.cache
+C:\Users\Kola\source\repos\la1b3\la1b3\obj\Debug\la1b3.exe
+C:\Users\Kola\source\repos\la1b3\la1b3\obj\Debug\la1b3.pdb
+C:\Users\FeareD\Desktop\1_варіант\Lab3\la1b3\bin\Debug\la1b3.exe.config
+C:\Users\FeareD\Desktop\1_варіант\Lab3\la1b3\bin\Debug\la1b3.exe
+C:\Users\FeareD\Desktop\1_варіант\Lab3\la1b3\bin\Debug\la1b3.pdb
+C:\Users\FeareD\Desktop\1_варіант\Lab3\la1b3\obj\Debug\la1b3.csprojResolveAssemblyReference.cache
+C:\Users\FeareD\Desktop\1_варіант\Lab3\la1b3\obj\Debug\la1b3.csproj.CoreCompileInputs.cache
+C:\Users\FeareD\Desktop\1_варіант\Lab3\la1b3\obj\Debug\la1b3.exe
+C:\Users\FeareD\Desktop\1_варіант\Lab3\la1b3\obj\Debug\la1b3.pdb
